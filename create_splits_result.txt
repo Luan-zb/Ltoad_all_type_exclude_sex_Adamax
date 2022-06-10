@@ -1,0 +1,68 @@
+{'Primary': 0, 'Metastatic': 1} site
+{'F': 0, 'M': 1} sex
+task:  0
+label column: label
+label dictionary: {'Lung': 0, 'Skin': 1}
+number of classes: 2
+slide-level counts:  
+ 0    314
+1    316
+Name: label, dtype: int64
+task:  1
+label column: site
+label dictionary: {'Primary': 0, 'Metastatic': 1}
+number of classes: 2
+slide-level counts:  
+ 0    438
+1    192
+Name: site, dtype: int64
+task:  2
+label column: sex
+label dictionary: {'F': 0, 'M': 1}
+number of classes: 2
+slide-level counts:  
+ 0    146
+1    484
+Name: sex, dtype: int64
+Patient-LVL; Number of samples registered in class 0: 113
+Slide-LVL; Number of samples registered in class 0: 314
+Patient-LVL; Number of samples registered in class 1: 70
+Slide-LVL; Number of samples registered in class 1: 316
+[11  7]
+[22 14]
+
+number of train samples: 576
+number of samples in cls 0: 281
+number of samples in cls 1: 295
+
+number of val samples: 18
+number of samples in cls 0: 11
+number of samples in cls 1: 7
+
+number of test samples: 36
+number of samples in cls 0: 22
+number of samples in cls 1: 14
+
+number of train samples: 576
+number of samples in cls 0: 403
+number of samples in cls 1: 173
+
+number of val samples: 18
+number of samples in cls 0: 12
+number of samples in cls 1: 6
+
+number of test samples: 36
+number of samples in cls 0: 23
+number of samples in cls 1: 13
+
+number of train samples: 576
+number of samples in cls 0: 133
+number of samples in cls 1: 443
+
+number of val samples: 18
+number of samples in cls 0: 5
+number of samples in cls 1: 13
+
+number of test samples: 36
+number of samples in cls 0: 8
+number of samples in cls 1: 28

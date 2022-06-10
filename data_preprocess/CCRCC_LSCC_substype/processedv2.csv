@@ -1,0 +1,1184 @@
+Case_ID,Slide_ID,Tumor_Histological_Type,Gender,Tumor_Site
+C3L-02349,C3L-02349-21,Squamous cell carcinoma,F,Primary
+C3L-04361,C3L-04361-25,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04361,C3L-04361-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-00247,C3N-00247-22,Adenosquamous Carcinoma; at least 66% squamous component,F,Primary
+C3N-00247,C3N-00247-21,Adenosquamous Carcinoma; at least 66% squamous component,F,Primary
+C3L-04912,C3L-04912-22,Keratinizing squamous cell carcinoma,F,Primary
+C3L-02170,C3L-02170-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02170,C3L-02170-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02170,C3L-02170-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02168,C3L-02168-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02168,C3L-02168-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02168,C3L-02168-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02168,C3L-02168-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02164,C3L-02164-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02164,C3L-02164-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02164,C3L-02164-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02163,C3L-02163-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02163,C3L-02163-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02163,C3L-02163-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02130,C3L-02130-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02130,C3L-02130-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02130,C3L-02130-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02130,C3L-02130-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02127,C3L-02127-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02127,C3L-02127-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02127,C3L-02127-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02127,C3L-02127-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02358,C3L-02358-23,Keratinizing squamous cell carcinoma,F,Primary
+C3L-02358,C3L-02358-21,Keratinizing squamous cell carcinoma,F,Primary
+C3L-02358,C3L-02358-22,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04361,C3L-04361-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-00247,C3N-00247-23,Adenosquamous Carcinoma; at least 66% squamous component,F,Primary
+C3L-04336,C3L-04336-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-00221,C3N-00221-26,Keratinizing squamous cell carcinoma,M,Primary
+C3N-00221,C3N-00221-24,Keratinizing squamous cell carcinoma,M,Primary
+C3N-00221,C3N-00221-28,Keratinizing squamous cell carcinoma,M,Primary
+C3N-02523,C3N-02523-22,Keratinizing squamous cell carcinoma,M,Primary
+C3N-00221,C3N-00221-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04361,C3L-04361-24,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-01017,C3N-01017-24,Squamous cell carcinoma,M,Primary
+C3L-04361,C3L-04361-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-01017,C3N-01017-21,Squamous cell carcinoma,M,Primary
+C3N-01017,C3N-01017-22,Squamous cell carcinoma,M,Primary
+C3N-01017,C3N-01017-23,Squamous cell carcinoma,M,Primary
+C3N-01020,C3N-01020-21,Squamous cell carcinoma,M,Primary
+C3N-01020,C3N-01020-24,Squamous cell carcinoma,M,Primary
+C3L-04889,C3L-04889-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04889,C3L-04889-21,Keratinizing squamous cell carcinoma,M,Primary
+C3N-01020,C3N-01020-22,Squamous cell carcinoma,M,Primary
+C3N-01020,C3N-01020-23,Squamous cell carcinoma,M,Primary
+C3N-02523,C3N-02523-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02546,C3L-02546-23,Squamous cell carcinoma,M,Primary
+C3L-02546,C3L-02546-21,Squamous cell carcinoma,M,Primary
+C3L-02552,C3L-02552-22,Adenosquamous carcinoma,M,Primary
+C3L-02552,C3L-02552-23,Adenosquamous carcinoma,M,Primary
+C3N-02494,C3N-02494-21,Squamous cell carcinoma,F,Primary
+C3N-02435,C3N-02435-23,Squamous cell carcinoma,F,Primary
+C3N-02435,C3N-02435-21,Squamous cell carcinoma,F,Primary
+C3L-04912,C3L-04912-21,Keratinizing squamous cell carcinoma,F,Primary
+C3N-02435,C3N-02435-22,Squamous cell carcinoma,F,Primary
+C3L-04889,C3L-04889-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04912,C3L-04912-25,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04378,C3L-04378-23,Squamous cell carcinoma,M,Primary
+C3L-01884,C3L-01884-23,Squamous cell carcinoma,M,Primary
+C3L-01884,C3L-01884-22,Squamous cell carcinoma,M,Primary
+C3L-01884,C3L-01884-21,Squamous cell carcinoma,M,Primary
+C3N-02434,C3N-02434-22,Squamous cell carcinoma,M,Primary
+C3N-02434,C3N-02434-23,Squamous cell carcinoma,M,Primary
+C3N-00221,C3N-00221-27,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04912,C3L-04912-24,Keratinizing squamous cell carcinoma,F,Primary
+C3N-02434,C3N-02434-21,Squamous cell carcinoma,M,Primary
+C3L-05420,C3L-05420-25,Keratinizing squamous cell carcinoma,F,Primary
+C3L-05417,C3L-05417-23,Keratinizing squamous cell carcinoma,M,Primary
+C3N-02426,C3N-02426-21,adenosquamous carcinoma,F,Primary
+C3N-02425,C3N-02425-22,Squamous cell carcinoma,M,Primary
+C3L-01838,C3L-01838-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04889,C3L-04889-22,Keratinizing squamous cell carcinoma,M,Primary
+C3N-03051,C3N-03051-22,Squamous cell carcinoma,M,Primary
+C3N-03051,C3N-03051-21,Squamous cell carcinoma,M,Primary
+C3N-03662,C3N-03662-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-02426,C3N-02426-22,adenosquamous carcinoma,F,Primary
+C3L-02619,C3L-02619-25,Squamous cell carcinoma,M,Primary
+C3L-02619,C3L-02619-23,Squamous cell carcinoma,M,Primary
+C3N-03072,C3N-03072-22,Squamous cell carcinoma,M,Primary
+C3N-01025,C3N-01025-24,Squamous cell carcinoma,M,Primary
+C3N-02575,C3N-02575-22,Squamous cell carcinoma,M,Primary
+C3L-02619,C3L-02619-21,Squamous cell carcinoma,M,Primary
+C3N-01025,C3N-01025-21,Squamous cell carcinoma,M,Primary
+C3N-01025,C3N-01025-23,Squamous cell carcinoma,M,Primary
+C3N-01025,C3N-01025-22,Squamous cell carcinoma,M,Primary
+C3N-01028,C3N-01028-23,Squamous cell carcinoma,M,Primary
+C3L-02619,C3L-02619-22,Squamous cell carcinoma,M,Primary
+C3L-02619,C3L-02619-24,Squamous cell carcinoma,M,Primary
+C3N-02425,C3N-02425-21,Squamous cell carcinoma,M,Primary
+C3N-03662,C3N-03662-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05417,C3L-05417-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05417,C3L-05417-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05417,C3L-05417-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-01663,C3L-01663-21,Squamous cell carcinoma,F,Primary
+C3L-01663,C3L-01663-22,Squamous cell carcinoma,F,Primary
+C3N-01028,C3N-01028-21,Squamous cell carcinoma,M,Primary
+C3N-01028,C3N-01028-22,Squamous cell carcinoma,M,Primary
+C3N-01028,C3N-01028-24,Squamous cell carcinoma,M,Primary
+C3L-04912,C3L-04912-23,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04916,C3L-04916-23,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04916,C3L-04916-24,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04916,C3L-04916-22,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04916,C3L-04916-25,Keratinizing squamous cell carcinoma,F,Primary
+C3N-04127,C3N-04127-21,Squamous cell carcinoma,M,Primary
+C3N-00211,C3N-00211-21,Squamous cell carcinoma,M,Primary
+C3L-04889,C3L-04889-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-01606,C3L-01606-21,Squamous cell carcinoma,M,Primary
+C3N-00211,C3N-00211-22,Squamous cell carcinoma,M,Primary
+C3L-04888,C3L-04888-24,Keratinizing squamous cell carcinoma,F,Primary
+C3N-02575,C3N-02575-21,Squamous cell carcinoma,M,Primary
+C3N-00211,C3N-00211-23,Squamous cell carcinoma,M,Primary
+C3L-02625,C3L-02625-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02625,C3L-02625-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04921,C3L-04921-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02625,C3L-02625-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02625,C3L-02625-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02625,C3L-02625-25,Keratinizing squamous cell carcinoma,M,Primary
+C3N-03072,C3N-03072-21,Squamous cell carcinoma,M,Primary
+C3N-03076,C3N-03076-21,Squamous cell carcinoma,M,Primary
+C3L-02627,C3L-02627-21,Squamous cell carcinoma,F,Primary
+C3L-02627,C3L-02627-25,Squamous cell carcinoma,F,Primary
+C3L-02627,C3L-02627-23,Squamous cell carcinoma,F,Primary
+C3L-01455,C3L-01455-21,Squamous cell carcinoma,M,Primary
+C3L-01455,C3L-01455-23,Squamous cell carcinoma,M,Primary
+C3L-01455,C3L-01455-22,Squamous cell carcinoma,M,Primary
+C3L-02627,C3L-02627-24,Squamous cell carcinoma,F,Primary
+C3L-02627,C3L-02627-22,Squamous cell carcinoma,F,Primary
+C3L-02629,C3L-02629-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02629,C3L-02629-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05411,C3L-05411-21,Keratinizing squamous cell carcinoma,F,Primary
+C3L-02629,C3L-02629-23,Keratinizing squamous cell carcinoma,M,Primary
+C3N-00211,C3N-00211-24,Squamous cell carcinoma,M,Primary
+C3N-01767,C3N-01767-22,Non-keratinizing squamous cell carcinoma,F,Primary
+C3L-02629,C3L-02629-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02629,C3L-02629-24,Keratinizing squamous cell carcinoma,M,Primary
+C3N-01768,C3N-01768-26,Non-keratinizing squamous cell carcinoma,F,Primary
+C3N-03662,C3N-03662-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-03076,C3N-03076-22,Squamous cell carcinoma,M,Primary
+C3L-05417,C3L-05417-25,Keratinizing squamous cell carcinoma,M,Primary
+C3N-03092,C3N-03092-22,Squamous cell carcinoma,M,Primary
+C3L-05411,C3L-05411-23,Keratinizing squamous cell carcinoma,F,Primary
+C3N-02374,C3N-02374-21,Squamous cell carcinoma,M,Primary
+C3N-02375,C3N-02375-22,Squamous cell carcinoma,M,Primary
+C3N-02375,C3N-02375-21,Squamous cell carcinoma,M,Primary
+C3N-03092,C3N-03092-23,Squamous cell carcinoma,M,Primary
+C3N-03093,C3N-03093-22,Squamous cell carcinoma,F,Primary
+C3N-03092,C3N-03092-21,Squamous cell carcinoma,M,Primary
+C3N-03092,C3N-03092-24,Squamous cell carcinoma,M,Primary
+C3L-02646,C3L-02646-25,Squamous cell carcinoma,M,Primary
+C3L-02646,C3L-02646-22,Squamous cell carcinoma,M,Primary
+C3L-01285,C3L-01285-21,Squamous cell carcinoma,M,Primary
+C3L-02646,C3L-02646-21,Squamous cell carcinoma,M,Primary
+C3L-01285,C3L-01285-22,Squamous cell carcinoma,M,Primary
+C3L-01285,C3L-01285-23,Squamous cell carcinoma,M,Primary
+C3L-02646,C3L-02646-24,Squamous cell carcinoma,M,Primary
+C3N-03093,C3N-03093-23,Squamous cell carcinoma,F,Primary
+C3N-03093,C3N-03093-24,Squamous cell carcinoma,F,Primary
+C3L-02646,C3L-02646-23,Squamous cell carcinoma,M,Primary
+C3N-03093,C3N-03093-21,Squamous cell carcinoma,F,Primary
+C3N-01194,C3N-01194-24,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04888,C3L-04888-23,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04888,C3L-04888-25,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04888,C3L-04888-22,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04888,C3L-04888-21,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04749,C3L-04749-24,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04887,C3L-04887-22,Squamous cell carcinoma,M,Primary
+C3L-04746,C3L-04746-21,Squamous cell carcinoma,M,Primary
+C3N-02374,C3N-02374-22,Squamous cell carcinoma,M,Primary
+C3L-04746,C3L-04746-23,Squamous cell carcinoma,M,Primary
+C3N-03882,C3N-03882-21,Squamous cell carcinoma,M,Primary
+C3N-02339,C3N-02339-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04746,C3L-04746-22,Squamous cell carcinoma,M,Primary
+C3L-05693,C3L-05693-21,Basaloid squamous cell carcinoma,F,Primary
+C3L-04746,C3L-04746-24,Squamous cell carcinoma,M,Primary
+C3L-04749,C3L-04749-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-02339,C3N-02339-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04379,C3L-04379-21,Basaloid squamous cell carcinoma,M,Primary
+C3N-02339,C3N-02339-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04749,C3L-04749-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04336,C3L-04336-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04336,C3L-04336-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-03848,C3N-03848-22,Squamous cell carcinoma,F,Primary
+C3L-04749,C3L-04749-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04916,C3L-04916-21,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04887,C3L-04887-23,Squamous cell carcinoma,M,Primary
+C3L-04336,C3L-04336-24,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04921,C3L-04921-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04336,C3L-04336-25,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05411,C3L-05411-22,Keratinizing squamous cell carcinoma,F,Primary
+C3N-02300,C3N-02300-23,Squamous cell carcinoma,F,Primary
+C3N-02300,C3N-02300-22,Squamous cell carcinoma,F,Primary
+C3N-02285,C3N-02285-23,Squamous cell carcinoma,F,Primary
+C3N-02289,C3N-02289-26,Squamous cell carcinoma,M,Primary
+C3N-02288,C3N-02288-23,Squamous cell carcinoma,F,Primary
+C3N-02285,C3N-02285-24,Squamous cell carcinoma,F,Primary
+C3L-02648,C3L-02648-25,Squamous cell carcinoma,M,Primary
+C3N-02284,C3N-02284-22,Squamous cell carcinoma,M,Primary
+C3N-02284,C3N-02284-21,Squamous cell carcinoma,M,Primary
+C3L-05428,C3L-05428-25,Keratinizing squamous cell carcinoma,M,Primary
+C3N-02283,C3N-02283-21,Spindle cell carcinoma with undifferentiated non small carcinoma,M,Primary
+C3N-03848,C3N-03848-21,Squamous cell carcinoma,F,Primary
+C3N-02283,C3N-02283-22,Spindle cell carcinoma with undifferentiated non small carcinoma,M,Primary
+C3N-03851,C3N-03851-24,Squamous cell carcinoma,M,Primary
+C3L-05411,C3L-05411-24,Keratinizing squamous cell carcinoma,F,Primary
+C3L-00503,C3L-00503-22,Squamous cell carcinoma,F,Primary
+C3L-00503,C3L-00503-21,Squamous cell carcinoma,F,Primary
+C3L-04921,C3L-04921-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05428,C3L-05428-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05428,C3L-05428-23,Keratinizing squamous cell carcinoma,M,Primary
+C3N-04162,C3N-04162-21,Squamous cell carcinoma,M,Primary
+C3N-03851,C3N-03851-21,Squamous cell carcinoma,M,Primary
+C3N-03875,C3N-03875-22,Squamous cell carcinoma,M,Primary
+C3L-04921,C3L-04921-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-01000,C3L-01000-24,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04216,C3L-04216-23,Squamous cell carcinoma,M,Primary
+C3N-04124,C3N-04124-21,Squamous cell carcinoma,M,Primary
+C3L-01000,C3L-01000-25,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-04124,C3N-04124-22,Squamous cell carcinoma,M,Primary
+C3N-04127,C3N-04127-22,Squamous cell carcinoma,M,Primary
+C3L-04216,C3L-04216-22,Squamous cell carcinoma,M,Primary
+C3L-04216,C3L-04216-25,Squamous cell carcinoma,M,Primary
+C3L-00503,C3L-00503-23,Squamous cell carcinoma,F,Primary
+C3L-04216,C3L-04216-21,Squamous cell carcinoma,M,Primary
+C3L-04379,C3L-04379-25,Basaloid squamous cell carcinoma,M,Primary
+C3L-04379,C3L-04379-24,Basaloid squamous cell carcinoma,M,Primary
+C3N-02252,C3N-02252-29,Squamous cell carcinoma,F,Primary
+C3L-04216,C3L-04216-24,Squamous cell carcinoma,M,Primary
+C3L-00993,C3L-00993-24,Squamous cell carcinoma,M,Primary
+C3L-04379,C3L-04379-22,Basaloid squamous cell carcinoma,M,Primary
+C3L-00993,C3L-00993-23,Squamous cell carcinoma,M,Primary
+C3L-00993,C3L-00993-21,Squamous cell carcinoma,M,Primary
+C3N-03886,C3N-03886-21,Basaloid squamous cell carcinoma,M,Primary
+C3L-00993,C3L-00993-22,Squamous cell carcinoma,M,Primary
+C3L-04883,C3L-04883-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04887,C3L-04887-21,Squamous cell carcinoma,M,Primary
+C3L-04887,C3L-04887-24,Squamous cell carcinoma,M,Primary
+C3L-06169,C3L-06169-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-06169,C3L-06169-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-06169,C3L-06169-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-06169,C3L-06169-22,Keratinizing squamous cell carcinoma,M,Primary
+C3N-03886,C3N-03886-22,Basaloid squamous cell carcinoma,M,Primary
+C3L-02648,C3L-02648-22,Squamous cell carcinoma,M,Primary
+C3L-02648,C3L-02648-21,Squamous cell carcinoma,M,Primary
+C3L-02648,C3L-02648-23,Squamous cell carcinoma,M,Primary
+C3L-02648,C3L-02648-24,Squamous cell carcinoma,M,Primary
+C3L-04887,C3L-04887-25,Squamous cell carcinoma,M,Primary
+C3L-02649,C3L-02649-25,Squamous cell carcinoma,M,Primary
+C3L-02649,C3L-02649-22,Squamous cell carcinoma,M,Primary
+C3L-04883,C3L-04883-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04883,C3L-04883-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04883,C3L-04883-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-00965,C3L-00965-23,Squamous cell carcinoma,M,Primary
+C3L-00965,C3L-00965-22,Squamous cell carcinoma,M,Primary
+C3L-04883,C3L-04883-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-00965,C3L-00965-21,Squamous cell carcinoma,M,Primary
+C3L-00965,C3L-00965-24,Squamous cell carcinoma,M,Primary
+C3L-02649,C3L-02649-24,Squamous cell carcinoma,M,Primary
+C3L-02649,C3L-02649-21,Squamous cell carcinoma,M,Primary
+C3L-02649,C3L-02649-23,Squamous cell carcinoma,M,Primary
+C3L-02650,C3L-02650-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02650,C3L-02650-26,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02650,C3L-02650-22,Keratinizing squamous cell carcinoma,M,Primary
+C3N-01411,C3N-01411-24,Squamous cell carcinoma,M,Primary
+C3N-01411,C3N-01411-23,Squamous cell carcinoma,M,Primary
+C3N-01411,C3N-01411-21,Squamous cell carcinoma,M,Primary
+C3N-01411,C3N-01411-22,Squamous cell carcinoma,M,Primary
+C3L-02650,C3L-02650-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02650,C3L-02650-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-00927,C3L-00927-21,Squamous cell carcinoma,M,Primary
+C3L-00927,C3L-00927-22,Squamous cell carcinoma,M,Primary
+C3L-00923,C3L-00923-23,Squamous cell carcinoma,F,Primary
+C3L-00927,C3L-00927-23,Squamous cell carcinoma,M,Primary
+C3N-03886,C3N-03886-23,Basaloid squamous cell carcinoma,M,Primary
+C3L-06169,C3L-06169-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02660,C3L-02660-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02660,C3L-02660-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02660,C3L-02660-24,Keratinizing squamous cell carcinoma,M,Primary
+C3N-03875,C3N-03875-21,Squamous cell carcinoma,M,Primary
+C3L-04786,C3L-04786-25,Squamous cell carcinoma,M,Primary
+C3L-05428,C3L-05428-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02660,C3L-02660-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02665,C3L-02665-21,Squamous cell carcinoma,M,Primary
+C3L-00904,C3L-00904-21,Squamous cell carcinoma,M,Primary
+C3L-00904,C3L-00904-22,Squamous cell carcinoma,M,Primary
+C3L-02665,C3L-02665-22,Squamous cell carcinoma,M,Primary
+C3L-02660,C3L-02660-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02665,C3L-02665-23,Squamous cell carcinoma,M,Primary
+C3L-02665,C3L-02665-25,Squamous cell carcinoma,M,Primary
+C3L-02665,C3L-02665-24,Squamous cell carcinoma,M,Primary
+C3L-02669,C3L-02669-23,Squamous cell carcinoma,M,Primary
+C3L-02669,C3L-02669-24,Squamous cell carcinoma,M,Primary
+C3L-02669,C3L-02669-25,Squamous cell carcinoma,M,Primary
+C3L-02669,C3L-02669-22,Squamous cell carcinoma,M,Primary
+C3L-02669,C3L-02669-21,Squamous cell carcinoma,M,Primary
+C3L-05411,C3L-05411-25,Keratinizing squamous cell carcinoma,F,Primary
+C3N-03877,C3N-03877-22,Squamous cell carcinoma,M,Primary
+C3L-05399,C3L-05399-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05399,C3L-05399-24,Keratinizing squamous cell carcinoma,M,Primary
+C3N-03877,C3N-03877-21,Squamous cell carcinoma,M,Primary
+C3N-02675,C3N-02675-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05399,C3L-05399-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04079,C3L-04079-22,Squamous cell carcinoma,F,Primary
+C3N-03204,C3N-03204-22,Squamous cell carcinoma,M,Primary
+C3N-03204,C3N-03204-21,Squamous cell carcinoma,M,Primary
+C3L-04880,C3L-04880-23,Squamous cell carcinoma,M,Primary
+C3L-04880,C3L-04880-24,Squamous cell carcinoma,M,Primary
+C3L-04880,C3L-04880-22,Squamous cell carcinoma,M,Primary
+C3L-04079,C3L-04079-21,Squamous cell carcinoma,F,Primary
+C3L-04880,C3L-04880-21,Squamous cell carcinoma,M,Primary
+C3L-04880,C3L-04880-25,Squamous cell carcinoma,M,Primary
+C3L-04878,C3L-04878-23,Squamous cell carcinoma,M,Primary
+C3L-04878,C3L-04878-22,Squamous cell carcinoma,M,Primary
+C3L-05399,C3L-05399-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05398,C3L-05398-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05398,C3L-05398-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05399,C3L-05399-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05398,C3L-05398-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05398,C3L-05398-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04878,C3L-04878-21,Squamous cell carcinoma,M,Primary
+C3L-04878,C3L-04878-24,Squamous cell carcinoma,M,Primary
+C3L-05398,C3L-05398-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04878,C3L-04878-25,Squamous cell carcinoma,M,Primary
+C3L-05397,C3L-05397-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05397,C3L-05397-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05397,C3L-05397-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04874,C3L-04874-23,Squamous cell carcinoma,M,Primary
+C3L-04874,C3L-04874-22,Squamous cell carcinoma,M,Primary
+C3L-04874,C3L-04874-24,Squamous cell carcinoma,M,Primary
+C3L-04874,C3L-04874-21,Squamous cell carcinoma,M,Primary
+C3N-03880,C3N-03880-21,Squamous cell carcinoma,M,Primary
+C3L-04874,C3L-04874-25,Squamous cell carcinoma,M,Primary
+C3N-03880,C3N-03880-22,Squamous cell carcinoma,M,Primary
+C3L-05397,C3L-05397-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04873,C3L-04873-22,Squamous cell carcinoma,M,Primary
+C3L-04873,C3L-04873-23,Squamous cell carcinoma,M,Primary
+C3L-05397,C3L-05397-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04873,C3L-04873-21,Squamous cell carcinoma,M,Primary
+C3L-04873,C3L-04873-25,Squamous cell carcinoma,M,Primary
+C3N-03882,C3N-03882-22,Squamous cell carcinoma,M,Primary
+C3L-05394,C3L-05394-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04873,C3L-04873-24,Squamous cell carcinoma,M,Primary
+C3L-05394,C3L-05394-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05394,C3L-05394-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05394,C3L-05394-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-00603,C3L-00603-21,Squamous cell carcinoma,M,Primary
+C3L-00603,C3L-00603-22,Squamous cell carcinoma,M,Primary
+C3L-04856,C3L-04856-25,Squamous cell carcinoma,M,Primary
+C3L-04872,C3L-04872-23,Squamous cell carcinoma,M,Primary
+C3L-04872,C3L-04872-21,Squamous cell carcinoma,M,Primary
+C3L-04746,C3L-04746-25,Squamous cell carcinoma,M,Primary
+C3L-05428,C3L-05428-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04786,C3L-04786-22,Squamous cell carcinoma,M,Primary
+C3L-04872,C3L-04872-24,Squamous cell carcinoma,M,Primary
+C3N-04155,C3N-04155-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04786,C3L-04786-24,Squamous cell carcinoma,M,Primary
+C3N-01018,C3N-01018-24,Solid adenocarcinoma,M,Primary
+C3L-04367,C3L-04367-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04872,C3L-04872-22,Squamous cell carcinoma,M,Primary
+C3L-04367,C3L-04367-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-02891,C3L-02891-23,Squamous cell carcinoma,F,Primary
+C3L-02891,C3L-02891-21,Squamous cell carcinoma,F,Primary
+C3L-00568,C3L-00568-23,Squamous cell carcinoma,F,Primary
+C3L-04861,C3L-04861-22,Squamous cell carcinoma,M,Primary
+C3L-00568,C3L-00568-22,Squamous cell carcinoma,F,Primary
+C3L-00568,C3L-00568-21,Squamous cell carcinoma,F,Primary
+C3L-04872,C3L-04872-25,Squamous cell carcinoma,M,Primary
+C3L-02951,C3L-02951-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05394,C3L-05394-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02963,C3L-02963-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-02951,C3L-02951-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-02963,C3L-02963-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-02963,C3L-02963-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04871,C3L-04871-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02964,C3L-02964-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04367,C3L-04367-25,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04367,C3L-04367-24,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-02964,C3L-02964-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-00445,C3L-00445-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-00445,C3L-00445-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-00445,C3L-00445-26,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02968,C3L-02968-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-02969,C3L-02969-22,Squamous cell carcinoma,M,Primary
+C3L-02969,C3L-02969-21,Squamous cell carcinoma,M,Primary
+C3N-01018,C3N-01018-21,Solid adenocarcinoma,M,Primary
+C3L-05393,C3L-05393-22,Keratinizing squamous cell carcinoma,M,Primary
+C3N-01018,C3N-01018-23,Solid adenocarcinoma,M,Primary
+C3L-05393,C3L-05393-24,Keratinizing squamous cell carcinoma,M,Primary
+C3N-04155,C3N-04155-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-00415,C3L-00415-21,Squamous cell carcinoma,F,Primary
+C3L-00415,C3L-00415-23,Squamous cell carcinoma,F,Primary
+C3L-04871,C3L-04871-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04871,C3L-04871-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05393,C3L-05393-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04786,C3L-04786-21,Squamous cell carcinoma,M,Primary
+C3L-05393,C3L-05393-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05393,C3L-05393-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05392,C3L-05392-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02624,C3L-02624-21,Squamous cell carcinoma,M,Primary
+C3L-05392,C3L-05392-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05392,C3L-05392-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05392,C3L-05392-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04378,C3L-04378-22,Squamous cell carcinoma,M,Primary
+C3L-05369,C3L-05369-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05392,C3L-05392-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02624,C3L-02624-22,Squamous cell carcinoma,M,Primary
+C3L-02624,C3L-02624-24,Squamous cell carcinoma,M,Primary
+C3L-02624,C3L-02624-25,Squamous cell carcinoma,M,Primary
+C3L-02624,C3L-02624-23,Squamous cell carcinoma,M,Primary
+C3L-02618,C3L-02618-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02618,C3L-02618-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05369,C3L-05369-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02618,C3L-02618-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02618,C3L-02618-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-02618,C3L-02618-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-03272,C3L-03272-22,Squamous cell carcinoma,M,Primary
+C3L-03272,C3L-03272-23,Squamous cell carcinoma,M,Primary
+C3L-03272,C3L-03272-21,Squamous cell carcinoma,M,Primary
+C3L-04921,C3L-04921-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04922,C3L-04922-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04922,C3L-04922-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04378,C3L-04378-25,Squamous cell carcinoma,M,Primary
+C3L-04922,C3L-04922-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05369,C3L-05369-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04922,C3L-04922-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04922,C3L-04922-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05020,C3L-05020-26,Keratinizing squamous cell carcinoma,F,Primary
+C3L-05369,C3L-05369-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05369,C3L-05369-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05225,C3L-05225-23,Non-keratinizing squamous cell carcinoma,F,Primary
+C3L-05020,C3L-05020-25,Keratinizing squamous cell carcinoma,F,Primary
+C3L-05020,C3L-05020-21,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04871,C3L-04871-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04868,C3L-04868-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04378,C3L-04378-24,Squamous cell carcinoma,M,Primary
+C3L-03987,C3L-03987-23,Squamous cell carcinoma,M,Primary
+C3L-04786,C3L-04786-23,Squamous cell carcinoma,M,Primary
+C3L-04792,C3L-04792-24,Squamous cell carcinoma,M,Primary
+C3N-01018,C3N-01018-22,Solid adenocarcinoma,M,Primary
+C3L-05020,C3L-05020-22,Keratinizing squamous cell carcinoma,F,Primary
+C3L-05022,C3L-05022-24,Squamous cell carcinoma,M,Primary
+C3L-05022,C3L-05022-21,Squamous cell carcinoma,M,Primary
+C3L-05022,C3L-05022-22,Squamous cell carcinoma,M,Primary
+C3L-05022,C3L-05022-23,Squamous cell carcinoma,M,Primary
+C3L-04792,C3L-04792-25,Squamous cell carcinoma,M,Primary
+C3L-04871,C3L-04871-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04792,C3L-04792-22,Squamous cell carcinoma,M,Primary
+C3N-04155,C3N-04155-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-03987,C3L-03987-22,Squamous cell carcinoma,M,Primary
+C3L-04868,C3L-04868-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-03987,C3L-03987-21,Squamous cell carcinoma,M,Primary
+C3L-03987,C3L-03987-25,Squamous cell carcinoma,M,Primary
+C3L-03987,C3L-03987-24,Squamous cell carcinoma,M,Primary
+C3L-04868,C3L-04868-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04868,C3L-04868-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04868,C3L-04868-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04402,C3L-04402-21,Keratinizing squamous cell carcinoma,M,Primary
+C3N-03486,C3N-03486-23,Basaloid squamous cell carcinoma,M,Primary
+C3N-03486,C3N-03486-22,Basaloid squamous cell carcinoma,M,Primary
+C3N-03486,C3N-03486-21,Basaloid squamous cell carcinoma,M,Primary
+C3L-04792,C3L-04792-21,Squamous cell carcinoma,M,Primary
+C3L-04378,C3L-04378-21,Squamous cell carcinoma,M,Primary
+C3L-00081,C3L-00081-21,Squamous cell carcinoma,F,Primary
+C3L-04792,C3L-04792-23,Squamous cell carcinoma,M,Primary
+C3L-04402,C3L-04402-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04404,C3L-04404-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04804,C3L-04804-24,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04804,C3L-04804-25,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04379,C3L-04379-23,Basaloid squamous cell carcinoma,M,Primary
+C3N-00229,C3N-00229-30,Squamous cell carcinoma,F,Primary
+C3N-00309,C3N-00309-22,Squamous cell carcinoma,M,Primary
+C3L-04866,C3L-04866-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04866,C3L-04866-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04804,C3L-04804-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04866,C3L-04866-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04804,C3L-04804-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04804,C3L-04804-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04808,C3L-04808-23,Non-keratinizing squamous cell carcinoma,F,Primary
+C3L-04866,C3L-04866-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04866,C3L-04866-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04861,C3L-04861-25,Squamous cell carcinoma,M,Primary
+C3L-04854,C3L-04854-22,Squamous cell carcinoma,M,Primary
+C3L-04856,C3L-04856-22,Squamous cell carcinoma,M,Primary
+C3L-05225,C3L-05225-22,Non-keratinizing squamous cell carcinoma,F,Primary
+C3N-00309,C3N-00309-24,Squamous cell carcinoma,M,Primary
+C3N-00229,C3N-00229-29,Squamous cell carcinoma,F,Primary
+C3N-05914,C3N-05914-27,Non-keratinizing squamous cell carcinoma,F,Primary
+C3N-05929,C3N-05929-23,Squamous cell carcinoma,M,Primary
+C3N-05923,C3N-05923-21,Keratinizing squamous cell carcinoma,F,Primary
+C3N-05915,C3N-05915-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-01893,C3N-01893-23,Squamous cell carcinoma,M,Primary
+C3N-05629,C3N-05629-21,Squamous cell carcinoma,M,Primary
+C3N-05100,C3N-05100-27,Squamous cell carcinoma,F,Primary
+C3N-05080,C3N-05080-27,Squamous cell carcinoma,M,Primary
+C3N-05080,C3N-05080-25,Squamous cell carcinoma,M,Primary
+C3N-05079,C3N-05079-21,Squamous cell carcinoma,M,Primary
+C3N-05078,C3N-05078-21,Squamous cell carcinoma,M,Primary
+C3N-04713,C3N-04713-26,Squamous cell carcinoma,M,Primary
+C3N-04701,C3N-04701-24,Squamous cell carcinoma,M,Primary
+C3N-02688,C3N-02688-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-04673,C3N-04673-24,Squamous cell carcinoma,M,Primary
+C3L-05225,C3L-05225-21,Non-keratinizing squamous cell carcinoma,F,Primary
+C3L-05225,C3L-05225-25,Non-keratinizing squamous cell carcinoma,F,Primary
+C3L-05225,C3L-05225-24,Non-keratinizing squamous cell carcinoma,F,Primary
+C3N-04609,C3N-04609-21,Squamous cell carcinoma,M,Primary
+C3N-04609,C3N-04609-22,Squamous cell carcinoma,M,Primary
+C3N-04609,C3N-04609-23,Squamous cell carcinoma,M,Primary
+C3N-04457,C3N-04457-21,Keratinizing squamous cell carcinoma,F,Primary
+C3N-04457,C3N-04457-23,Keratinizing squamous cell carcinoma,F,Primary
+C3N-04457,C3N-04457-22,Keratinizing squamous cell carcinoma,F,Primary
+C3L-05221,C3L-05221-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04854,C3L-04854-23,Squamous cell carcinoma,M,Primary
+C3N-03441,C3N-03441-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-03982,C3L-03982-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-03982,C3L-03982-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-03982,C3L-03982-25,Keratinizing squamous cell carcinoma,M,Primary
+C3N-04169,C3N-04169-22,Squamous cell carcinoma,F,Primary
+C3L-03678,C3L-03678-21,Squamous cell carcinoma,M,Primary
+C3L-03678,C3L-03678-23,Squamous cell carcinoma,M,Primary
+C3N-04167,C3N-04167-22,Squamous cell carcinoma,M,Primary
+C3N-04167,C3N-04167-21,Squamous cell carcinoma,M,Primary
+C3L-05221,C3L-05221-24,Keratinizing squamous cell carcinoma,M,Primary
+C3N-04167,C3N-04167-23,Squamous cell carcinoma,M,Primary
+C3L-05221,C3L-05221-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05212,C3L-05212-23,Non-keratinizing squamous cell carcinoma,F,Primary
+C3L-05221,C3L-05221-22,Keratinizing squamous cell carcinoma,M,Primary
+C3N-03425,C3N-03425-25,Keratinizing squamous cell carcinoma,F,Primary
+C3L-05221,C3L-05221-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05212,C3L-05212-22,Non-keratinizing squamous cell carcinoma,F,Primary
+C3L-04854,C3L-04854-21,Squamous cell carcinoma,M,Primary
+C3L-04367,C3L-04367-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04854,C3L-04854-24,Squamous cell carcinoma,M,Primary
+C3L-05427,C3L-05427-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05427,C3L-05427-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05427,C3L-05427-21,Keratinizing squamous cell carcinoma,M,Primary
+C3N-00839,C3N-00839-21,Basaloid squamous cell carcinoma,M,Primary
+C3N-00839,C3N-00839-22,Basaloid squamous cell carcinoma,M,Primary
+C3N-00839,C3N-00839-23,Basaloid squamous cell carcinoma,M,Primary
+C3L-05427,C3L-05427-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05427,C3L-05427-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05212,C3L-05212-21,Non-keratinizing squamous cell carcinoma,F,Primary
+C3L-05423,C3L-05423-24,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05422,C3L-05422-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05212,C3L-05212-25,Non-keratinizing squamous cell carcinoma,F,Primary
+C3L-05212,C3L-05212-24,Non-keratinizing squamous cell carcinoma,F,Primary
+C3N-00555,C3N-00555-21,Squamous cell carcinoma,M,Primary
+C3N-03923,C3N-03923-22,Squamous cell carcinoma,M,Primary
+C3N-03923,C3N-03923-23,Squamous cell carcinoma,M,Primary
+C3N-00555,C3N-00555-24,Squamous cell carcinoma,M,Primary
+C3N-03923,C3N-03923-21,Squamous cell carcinoma,M,Primary
+C3N-00555,C3N-00555-22,Squamous cell carcinoma,M,Primary
+C3N-00555,C3N-00555-23,Squamous cell carcinoma,M,Primary
+C3L-05176,C3L-05176-23,Keratinizing squamous cell carcinoma,M,Primary
+C3N-03424,C3N-03424-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05176,C3L-05176-22,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05176,C3L-05176-21,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05172,C3L-05172-21,Squamous cell carcinoma,M,Primary
+C3L-05423,C3L-05423-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05423,C3L-05423-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05423,C3L-05423-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05422,C3L-05422-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05423,C3L-05423-25,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05422,C3L-05422-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05422,C3L-05422-24,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-04162,C3N-04162-23,Squamous cell carcinoma,M,Primary
+C3N-04162,C3N-04162-22,Squamous cell carcinoma,M,Primary
+C3L-03961,C3L-03961-23,Squamous cell carcinoma,F,Primary
+C3N-03762,C3N-03762-21,Keratinizing squamous cell carcinoma,F,Primary
+C3L-03961,C3L-03961-25,Squamous cell carcinoma,F,Primary
+C3L-03961,C3L-03961-24,Squamous cell carcinoma,F,Primary
+C3L-05422,C3L-05422-25,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05420,C3L-05420-24,Keratinizing squamous cell carcinoma,F,Primary
+C3L-05420,C3L-05420-22,Keratinizing squamous cell carcinoma,F,Primary
+C3L-05420,C3L-05420-21,Keratinizing squamous cell carcinoma,F,Primary
+C3L-05172,C3L-05172-24,Squamous cell carcinoma,M,Primary
+C3L-05176,C3L-05176-25,Keratinizing squamous cell carcinoma,M,Primary
+C3L-05172,C3L-05172-23,Squamous cell carcinoma,M,Primary
+C3L-03961,C3L-03961-22,Squamous cell carcinoma,F,Primary
+C3L-05176,C3L-05176-24,Keratinizing squamous cell carcinoma,M,Primary
+C3N-00497,C3N-00497-21,Keratinizing squamous cell carcinoma,F,Primary
+C3L-03961,C3L-03961-21,Squamous cell carcinoma,F,Primary
+C3L-03962,C3L-03962-24,Squamous cell carcinoma,M,Primary
+C3L-03962,C3L-03962-25,Squamous cell carcinoma,M,Primary
+C3L-03962,C3L-03962-21,Squamous cell carcinoma,M,Primary
+C3L-03962,C3L-03962-23,Squamous cell carcinoma,M,Primary
+C3L-03962,C3L-03962-22,Squamous cell carcinoma,M,Primary
+C3L-03963,C3L-03963-25,Squamous cell carcinoma,M,Primary
+C3L-03963,C3L-03963-22,Squamous cell carcinoma,M,Primary
+C3L-04861,C3L-04861-24,Squamous cell carcinoma,M,Primary
+C3L-04861,C3L-04861-23,Squamous cell carcinoma,M,Primary
+C3L-04861,C3L-04861-21,Squamous cell carcinoma,M,Primary
+C3L-03963,C3L-03963-21,Squamous cell carcinoma,M,Primary
+C3L-03963,C3L-03963-23,Squamous cell carcinoma,M,Primary
+C3L-03965,C3L-03965-25,Squamous cell carcinoma,M,Primary
+C3L-03963,C3L-03963-24,Squamous cell carcinoma,M,Primary
+C3L-03965,C3L-03965-22,Squamous cell carcinoma,M,Primary
+C3L-03965,C3L-03965-21,Squamous cell carcinoma,M,Primary
+C3L-03965,C3L-03965-23,Squamous cell carcinoma,M,Primary
+C3L-03965,C3L-03965-24,Squamous cell carcinoma,M,Primary
+C3L-03982,C3L-03982-23,Keratinizing squamous cell carcinoma,M,Primary
+C3L-03982,C3L-03982-24,Keratinizing squamous cell carcinoma,M,Primary
+C3L-04728,C3L-04728-21,Squamous cell carcinoma,F,Primary
+C3L-05145,C3L-05145-24,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05145,C3L-05145-25,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04391,C3L-04391-23,Squamous cell carcinoma,M,Primary
+C3L-05145,C3L-05145-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05020,C3L-05020-24,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04013,C3L-04013-22,Squamous cell carcinoma,M,Primary
+C3L-04410,C3L-04410-22,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04013,C3L-04013-24,Squamous cell carcinoma,M,Primary
+C3L-04013,C3L-04013-25,Squamous cell carcinoma,M,Primary
+C3L-05145,C3L-05145-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04013,C3L-04013-21,Squamous cell carcinoma,M,Primary
+C3L-04013,C3L-04013-23,Squamous cell carcinoma,M,Primary
+C3L-04014,C3L-04014-25,Squamous cell carcinoma,M,Primary
+C3L-04014,C3L-04014-24,Squamous cell carcinoma,M,Primary
+C3L-04014,C3L-04014-22,Squamous cell carcinoma,M,Primary
+C3L-04014,C3L-04014-21,Squamous cell carcinoma,M,Primary
+C3L-04014,C3L-04014-23,Squamous cell carcinoma,M,Primary
+C3L-04391,C3L-04391-22,Squamous cell carcinoma,M,Primary
+C3L-04856,C3L-04856-21,Squamous cell carcinoma,M,Primary
+C3L-04856,C3L-04856-23,Squamous cell carcinoma,M,Primary
+C3L-04856,C3L-04856-24,Squamous cell carcinoma,M,Primary
+C3L-04854,C3L-04854-25,Squamous cell carcinoma,M,Primary
+C3L-05420,C3L-05420-23,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04808,C3L-04808-21,Non-keratinizing squamous cell carcinoma,F,Primary
+C3L-04808,C3L-04808-22,Non-keratinizing squamous cell carcinoma,F,Primary
+C3L-05172,C3L-05172-22,Squamous cell carcinoma,M,Primary
+C3L-05172,C3L-05172-25,Squamous cell carcinoma,M,Primary
+C3L-04410,C3L-04410-21,Keratinizing squamous cell carcinoma,F,Primary
+C3N-01846,C3N-01846-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04409,C3L-04409-23,Squamous cell carcinoma,M,Primary
+C3N-01846,C3N-01846-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-01846,C3N-01846-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04071,C3L-04071-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04409,C3L-04409-21,Squamous cell carcinoma,M,Primary
+C3L-04410,C3L-04410-23,Keratinizing squamous cell carcinoma,F,Primary
+C3L-04071,C3L-04071-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-04408,C3L-04408-21,Squamous cell carcinoma,M,Primary
+C3L-05150,C3L-05150-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05150,C3L-05150-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-00309,C3N-00309-23,Squamous cell carcinoma,M,Primary
+C3L-05150,C3L-05150-25,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-00309,C3N-00309-21,Squamous cell carcinoma,M,Primary
+C3N-01893,C3N-01893-22,Squamous cell carcinoma,M,Primary
+C3L-05148,C3L-05148-21,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05148,C3L-05148-24,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05145,C3L-05145-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05148,C3L-05148-25,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05148,C3L-05148-22,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-01892,C3N-01892-28,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05150,C3L-05150-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05148,C3L-05148-23,Non-keratinizing squamous cell carcinoma,M,Primary
+C3L-05150,C3L-05150-24,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-01892,C3N-01892-29,Non-keratinizing squamous cell carcinoma,M,Primary
+C3N-00312,C3N-00312-24,Clear cell renal cell carcinoma,M,Primary
+C3N-00312,C3N-00312-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00310,C3N-00310-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00310,C3N-00310-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00310,C3N-00310-24,Clear cell renal cell carcinoma,M,Primary
+C3N-00312,C3N-00312-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00310,C3N-00310-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00305,C3N-00305-21,Clear cell renal cell carcinoma,F,Primary
+C3N-00305,C3N-00305-22,Clear cell renal cell carcinoma,F,Primary
+C3N-00313,C3N-00313-22,Clear cell renal cell carcinoma,F,Primary
+C3N-00313,C3N-00313-23,Clear cell renal cell carcinoma,F,Primary
+C3N-00314,C3N-00314-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00313,C3N-00313-24,Clear cell renal cell carcinoma,F,Primary
+C3N-00313,C3N-00313-21,Clear cell renal cell carcinoma,F,Primary
+C3N-00314,C3N-00314-24,Clear cell renal cell carcinoma,M,Primary
+C3N-00314,C3N-00314-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00315,C3N-00315-22,"Clear cell, partly papillary carcinoma",M,Primary
+C3N-00314,C3N-00314-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00315,C3N-00315-21,"Clear cell, partly papillary carcinoma",M,Primary
+C3N-00315,C3N-00315-24,"Clear cell, partly papillary carcinoma",M,Primary
+C3N-00315,C3N-00315-23,"Clear cell, partly papillary carcinoma",M,Primary
+C3N-00317,C3N-00317-22,Clear cell renal cell carcinoma,F,Primary
+C3N-00317,C3N-00317-21,Clear cell renal cell carcinoma,F,Primary
+C3N-00246,C3N-00246-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00246,C3N-00246-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00244,C3N-00244-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00246,C3N-00246-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00244,C3N-00244-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00244,C3N-00244-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00242,C3N-00242-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00242,C3N-00242-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00317,C3N-00317-24,Clear cell renal cell carcinoma,F,Primary
+C3N-00317,C3N-00317-23,Clear cell renal cell carcinoma,F,Primary
+C3N-00320,C3N-00320-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00320,C3N-00320-24,Clear cell renal cell carcinoma,M,Primary
+C3N-00320,C3N-00320-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00320,C3N-00320-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00194,C3N-00194-22,Clear cell renal cell carcinoma,F,Primary
+C3N-00194,C3N-00194-23,Clear cell renal cell carcinoma,F,Primary
+C3N-00194,C3N-00194-21,Clear cell renal cell carcinoma,F,Primary
+C3N-00194,C3N-00194-24,Clear cell renal cell carcinoma,F,Primary
+C3N-00177,C3N-00177-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00177,C3N-00177-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00177,C3N-00177-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00168,C3N-00168-24,Clear cell renal cell carcinoma,M,Primary
+C3N-00168,C3N-00168-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00168,C3N-00168-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00168,C3N-00168-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00154,C3N-00154-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00154,C3N-00154-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00154,C3N-00154-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00154,C3N-00154-24,Clear cell renal cell carcinoma,M,Primary
+C3N-00150,C3N-00150-22,Clear cell renal cell carcinoma,F,Primary
+C3N-00150,C3N-00150-21,Clear cell renal cell carcinoma,F,Primary
+C3N-00150,C3N-00150-24,Clear cell renal cell carcinoma,F,Primary
+C3N-00150,C3N-00150-23,Clear cell renal cell carcinoma,F,Primary
+C3N-00149,C3N-00149-24,Clear cell renal cell carcinoma,F,Primary
+C3N-00149,C3N-00149-23,Clear cell renal cell carcinoma,F,Primary
+C3N-00149,C3N-00149-22,Clear cell renal cell carcinoma,F,Primary
+C3N-00149,C3N-00149-21,Clear cell renal cell carcinoma,F,Primary
+C3N-00148,C3N-00148-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00148,C3N-00148-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00148,C3N-00148-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00148,C3N-00148-24,Clear cell renal cell carcinoma,M,Primary
+C3L-01676,C3L-01676-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01676,C3L-01676-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00380,C3N-00380-24,Clear cell renal cell carcinoma,F,Primary
+C3N-00380,C3N-00380-25,Clear cell renal cell carcinoma,F,Primary
+C3N-00380,C3N-00380-23,Clear cell renal cell carcinoma,F,Primary
+C3N-00380,C3N-00380-21,Clear cell renal cell carcinoma,F,Primary
+C3N-00380,C3N-00380-22,Clear cell renal cell carcinoma,F,Primary
+C3N-00390,C3N-00390-24,Clear cell renal cell carcinoma,M,Primary
+C3L-01676,C3L-01676-24,Clear cell renal cell carcinoma,M,Primary
+C3N-00390,C3N-00390-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01676,C3L-01676-25,Clear cell renal cell carcinoma,M,Primary
+C3L-01665,C3L-01665-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01665,C3L-01665-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01470,C3L-01470-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00815,C3L-00815-21,Clear cell renal cell carcinoma,F,Primary
+C3L-01465,C3L-01465-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00991,C3L-00991-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00165,C3L-00165-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00435,C3N-00435-24,Clear cell renal cell carcinoma with secondary papillary pattern.,M,Primary
+C3N-00435,C3N-00435-23,Clear cell renal cell carcinoma with secondary papillary pattern.,M,Primary
+C3N-00435,C3N-00435-25,Clear cell renal cell carcinoma with secondary papillary pattern.,M,Primary
+C3N-00435,C3N-00435-21,Clear cell renal cell carcinoma with secondary papillary pattern.,M,Primary
+C3N-00435,C3N-00435-22,Clear cell renal cell carcinoma with secondary papillary pattern.,M,Primary
+C3N-00390,C3N-00390-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01464,C3L-01464-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01462,C3L-01462-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00390,C3N-00390-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00437,C3N-00437-22,Clear cell renal cell carcinoma,F,Primary
+C3N-00437,C3N-00437-23,Clear cell renal cell carcinoma,F,Primary
+C3N-00437,C3N-00437-21,Clear cell renal cell carcinoma,F,Primary
+C3N-00491,C3N-00491-25,Clear cell renal cell carcinoma,M,Primary
+C3N-00492,C3N-00492-23,Clear cell renal cell carcinoma,F,Primary
+C3N-00492,C3N-00492-24,Clear cell renal cell carcinoma,F,Primary
+C3N-00492,C3N-00492-21,Clear cell renal cell carcinoma,F,Primary
+C3N-00492,C3N-00492-22,Clear cell renal cell carcinoma,F,Primary
+C3N-00494,C3N-00494-24,Clear cell renal cell carcinoma,M,Primary
+C3N-00494,C3N-00494-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00494,C3N-00494-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00494,C3N-00494-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00495,C3N-00495-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00495,C3N-00495-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01459,C3L-01459-21,Clear cell renal cell carcinoma,F,Primary
+C3N-00573,C3N-00573-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00573,C3N-00573-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00573,C3N-00573-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00573,C3N-00573-24,Clear cell renal cell carcinoma,M,Primary
+C3N-00577,C3N-00577-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00577,C3N-00577-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00577,C3N-00577-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00577,C3N-00577-24,Clear cell renal cell carcinoma,M,Primary
+C3N-00646,C3N-00646-22,Clear cell renal cell carcinoma,F,Primary
+C3N-00646,C3N-00646-24,Clear cell renal cell carcinoma,F,Primary
+C3N-00646,C3N-00646-21,Clear cell renal cell carcinoma,F,Primary
+C3N-00646,C3N-00646-23,Clear cell renal cell carcinoma,F,Primary
+C3N-00733,C3N-00733-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00733,C3N-00733-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00733,C3N-00733-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00831,C3N-00831-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00832,C3N-00832-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00831,C3N-00831-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00834,C3N-00834-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00852,C3N-00852-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00852,C3N-00852-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00852,C3N-00852-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00953,C3N-00953-22,Clear cell renal cell carcinoma,M,Primary
+C3N-00953,C3N-00953-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00953,C3N-00953-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01885,C3L-01885-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01885,C3L-01885-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01885,C3L-01885-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01882,C3L-01882-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01861,C3L-01861-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01861,C3L-01861-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01861,C3L-01861-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01836,C3L-01836-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01836,C3L-01836-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01836,C3L-01836-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00165,C3L-00165-25,Clear cell renal cell carcinoma,M,Primary
+C3L-01607,C3L-01607-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01607,C3L-01607-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01607,C3L-01607-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01603,C3L-01603-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01603,C3L-01603-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01603,C3L-01603-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01560,C3L-01560-21,Clear cell renal cell carcinoma,F,Primary
+C3L-01557,C3L-01557-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01553,C3L-01553-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01279,C3L-01279-23,Clear cell renal cell carcinoma,F,Primary
+C3L-01279,C3L-01279-22,Clear cell renal cell carcinoma,F,Primary
+C3L-01352,C3L-01352-22,Clear cell renal cell carcinoma,F,Primary
+C3L-01352,C3L-01352-21,Clear cell renal cell carcinoma,F,Primary
+C3L-01313,C3L-01313-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01175,C3N-01175-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01178,C3N-01178-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01179,C3N-01179-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01176,C3N-01176-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01178,C3N-01178-22,Clear cell renal cell carcinoma,F,Primary
+C3N-01179,C3N-01179-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01180,C3N-01180-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01302,C3L-01302-23,Clear cell renal cell carcinoma,F,Primary
+C3L-01288,C3L-01288-22,Clear cell renal cell carcinoma,F,Primary
+C3L-01288,C3L-01288-23,Clear cell renal cell carcinoma,F,Primary
+C3L-01287,C3L-01287-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01287,C3L-01287-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01287,C3L-01287-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01286,C3L-01286-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01286,C3L-01286-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01286,C3L-01286-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01283,C3L-01283-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01180,C3N-01180-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01281,C3L-01281-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01281,C3L-01281-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01281,C3L-01281-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01200,C3N-01200-23,Clear cell renal cell carcinoma,F,Primary
+C3N-01200,C3N-01200-22,Clear cell renal cell carcinoma,F,Primary
+C3N-01200,C3N-01200-25,Clear cell renal cell carcinoma,F,Primary
+C3N-01200,C3N-01200-24,Clear cell renal cell carcinoma,F,Primary
+C3N-01200,C3N-01200-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01213,C3N-01213-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01213,C3N-01213-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01213,C3N-01213-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01214,C3N-01214-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01214,C3N-01214-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01214,C3N-01214-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01279,C3L-01279-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01220,C3N-01220-23,Clear cell renal cell carcinoma with rhabdoid differentiation,M,Primary
+C3N-01220,C3N-01220-21,Clear cell renal cell carcinoma with rhabdoid differentiation,M,Primary
+C3N-01220,C3N-01220-22,Clear cell renal cell carcinoma with rhabdoid differentiation,M,Primary
+C3N-01261,C3N-01261-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01261,C3N-01261-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01261,C3N-01261-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01361,C3N-01361-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01361,C3N-01361-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00917,C3L-00917-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00917,C3L-00917-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00910,C3L-00910-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00910,C3L-00910-22,Clear cell renal cell carcinoma,F,Primary
+C3L-00908,C3L-00908-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00907,C3L-00907-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00908,C3L-00908-23,Clear cell renal cell carcinoma,F,Primary
+C3L-00907,C3L-00907-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00907,C3L-00907-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00902,C3L-00902-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00902,C3L-00902-22,Clear cell renal cell carcinoma,F,Primary
+C3L-00817,C3L-00817-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00814,C3L-00814-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00813,C3L-00813-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00812,C3L-00812-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00800,C3L-00800-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00799,C3L-00799-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00796,C3L-00796-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00792,C3L-00792-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00791,C3L-00791-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00790,C3L-00790-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00766,C3L-00766-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00765,C3L-00765-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00610,C3L-00610-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00606,C3L-00606-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00607,C3L-00607-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00606,C3L-00606-22,Clear cell renal cell carcinoma,F,Primary
+C3L-00606,C3L-00606-23,Clear cell renal cell carcinoma,F,Primary
+C3N-01522,C3N-01522-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01522,C3N-01522-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01522,C3N-01522-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01524,C3N-01524-21,Rhabdoid variant of clear cell renal cell carcinoma.,M,Primary
+C3N-01524,C3N-01524-22,Rhabdoid variant of clear cell renal cell carcinoma.,M,Primary
+C3L-00583,C3L-00583-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00583,C3L-00583-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00583,C3L-00583-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00581,C3L-00581-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00581,C3L-00581-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00581,C3L-00581-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01524,C3N-01524-23,Rhabdoid variant of clear cell renal cell carcinoma.,M,Primary
+C3L-00561,C3L-00561-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00561,C3L-00561-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00448,C3L-00448-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00447,C3L-00447-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00447,C3L-00447-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00447,C3L-00447-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00418,C3L-00418-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00418,C3L-00418-22,Clear cell renal cell carcinoma,F,Primary
+C3L-00418,C3L-00418-23,Clear cell renal cell carcinoma,F,Primary
+C3L-00416,C3L-00416-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00416,C3L-00416-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00369,C3L-00369-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00369,C3L-00369-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00369,C3L-00369-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01646,C3N-01646-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00360,C3L-00360-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00360,C3L-00360-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00359,C3L-00359-22,Clear cell renal cell carcinoma,F,Primary
+C3L-00359,C3L-00359-23,Clear cell renal cell carcinoma,F,Primary
+C3L-00359,C3L-00359-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01646,C3N-01646-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01648,C3N-01648-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01648,C3N-01648-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01649,C3N-01649-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01651,C3N-01651-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01649,C3N-01649-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01651,C3N-01651-25,Clear cell renal cell carcinoma,M,Primary
+C3L-00183,C3L-00183-23,Clear cell renal cell carcinoma,F,Primary
+C3L-00183,C3L-00183-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00183,C3L-00183-25,Clear cell renal cell carcinoma,F,Primary
+C3N-01808,C3N-01808-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01808,C3N-01808-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01808,C3N-01808-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00103,C3L-00103-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00103,C3L-00103-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00103,C3L-00103-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00097,C3L-00097-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00096,C3L-00096-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00088,C3L-00088-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00088,C3L-00088-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00079,C3L-00079-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00026,C3L-00026-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00011,C3L-00011-21,unclassified with rhaboid features,F,Primary
+C3L-00010,C3L-00010-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00004,C3L-00004-21,Clear cell renal cell carcinoma,M,Primary
+C3N-03020,C3N-03020-22,Clear cell renal cell carcinoma,M,Primary
+C3N-03019,C3N-03019-22,Clear cell renal cell carcinoma,M,Primary
+C3N-03021,C3N-03021-21,Clear cell renal cell carcinoma,M,Primary
+C3N-03018,C3N-03018-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02945,C3N-02945-23,Clear cell renal cell carcinoma,F,Primary
+C3N-02945,C3N-02945-22,Clear cell renal cell carcinoma,F,Primary
+C3N-02945,C3N-02945-21,Clear cell renal cell carcinoma,F,Primary
+C3N-02811,C3N-02811-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02811,C3N-02811-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02811,C3N-02811-23,Clear cell renal cell carcinoma,M,Primary
+C3N-02763,C3N-02763-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02763,C3N-02763-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02761,C3N-02761-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02761,C3N-02761-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02726,C3N-02726-23,Clear cell renal cell carcinoma,M,Primary
+C3N-02726,C3N-02726-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02723,C3N-02723-22,Clear cell renal cell carcinoma,F,Primary
+C3N-02726,C3N-02726-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02723,C3N-02723-23,Clear cell renal cell carcinoma,F,Primary
+C3N-02723,C3N-02723-21,Clear cell renal cell carcinoma,F,Primary
+C3N-02577,C3N-02577-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02577,C3N-02577-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02439,C3N-02439-23,Clear cell renal cell carcinoma,M,Primary
+C3N-02439,C3N-02439-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02439,C3N-02439-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02431,C3N-02431-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02431,C3N-02431-23,Clear cell renal cell carcinoma,M,Primary
+C3N-02429,C3N-02429-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02429,C3N-02429-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02338,C3N-02338-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02338,C3N-02338-23,Clear cell renal cell carcinoma,M,Primary
+C3N-02332,C3N-02332-21,Clear cell renal cell carcinoma,F,Primary
+C3N-02332,C3N-02332-22,Clear cell renal cell carcinoma,F,Primary
+C3N-02332,C3N-02332-23,Clear cell renal cell carcinoma,F,Primary
+C3N-02266,C3N-02266-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02265,C3N-02265-21,Clear cell renal cell carcinoma,F,Primary
+C3N-02263,C3N-02263-21,Clear cell renal cell carcinoma,F,Primary
+C3N-02264,C3N-02264-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02264,C3N-02264-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02262,C3N-02262-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02262,C3N-02262-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02248,C3N-02248-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02248,C3N-02248-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02248,C3N-02248-23,Clear cell renal cell carcinoma,M,Primary
+C3N-02224,C3N-02224-22,Clear cell renal cell carcinoma,F,Primary
+C3N-02224,C3N-02224-21,Clear cell renal cell carcinoma,F,Primary
+C3N-02224,C3N-02224-23,Clear cell renal cell carcinoma,F,Primary
+C3N-02224,C3N-02224-24,Clear cell renal cell carcinoma,F,Primary
+C3N-02160,C3N-02160-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02160,C3N-02160-23,Clear cell renal cell carcinoma,M,Primary
+C3N-02160,C3N-02160-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02160,C3N-02160-24,Clear cell renal cell carcinoma,M,Primary
+C3N-02084,C3N-02084-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02085,C3N-02085-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02085,C3N-02085-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02084,C3N-02084-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02082,C3N-02082-21,Clear cell renal cell carcinoma,F,Primary
+C3N-02082,C3N-02082-22,Clear cell renal cell carcinoma,F,Primary
+C3N-02070,C3N-02070-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02070,C3N-02070-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02068,C3N-02068-21,Clear cell renal cell carcinoma,F,Primary
+C3N-02068,C3N-02068-22,Clear cell renal cell carcinoma,F,Primary
+C3N-02063,C3N-02063-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02063,C3N-02063-23,Clear cell renal cell carcinoma,M,Primary
+C3N-02066,C3N-02066-21,Clear cell renal cell carcinoma,F,Primary
+C3N-02066,C3N-02066-22,Clear cell renal cell carcinoma,F,Primary
+C3N-02063,C3N-02063-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02015,C3N-02015-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02015,C3N-02015-21,Clear cell renal cell carcinoma,M,Primary
+C3N-02015,C3N-02015-23,Clear cell renal cell carcinoma,M,Primary
+C3N-02005,C3N-02005-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02005,C3N-02005-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01989,C3N-01989-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01989,C3N-01989-22,Clear cell renal cell carcinoma,F,Primary
+C3N-01902,C3N-01902-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01905,C3N-01905-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01905,C3N-01905-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01902,C3N-01902-25,Clear cell renal cell carcinoma,M,Primary
+C3N-01828,C3N-01828-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01828,C3N-01828-22,Clear cell renal cell carcinoma,F,Primary
+C3N-01828,C3N-01828-23,Clear cell renal cell carcinoma,F,Primary
+C3N-01806,C3N-01806-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01806,C3N-01806-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01806,C3N-01806-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01656,C3N-01656-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01657,C3N-01657-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01657,C3N-01657-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01657,C3N-01657-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01656,C3N-01656-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01655,C3N-01655-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01655,C3N-01655-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01654,C3N-01654-22,Clear cell renal cell carcinoma,F,Primary
+C3N-01654,C3N-01654-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01536,C3N-01536-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01536,C3N-01536-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01536,C3N-01536-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01091,C3N-01091-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01091,C3N-01091-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01090,C3N-01090-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01090,C3N-01090-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01091,C3N-01091-24,Clear cell renal cell carcinoma,M,Primary
+C3N-01091,C3N-01091-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01090,C3N-01090-24,Clear cell renal cell carcinoma,M,Primary
+C3N-01090,C3N-01090-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01088,C3N-01088-23,Clear cell renal cell carcinoma,F,Primary
+C3N-01088,C3N-01088-24,Clear cell renal cell carcinoma,F,Primary
+C3N-01088,C3N-01088-22,Clear cell renal cell carcinoma,F,Primary
+C3N-01088,C3N-01088-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01086,C3N-01086-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01086,C3N-01086-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01086,C3N-01086-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01086,C3N-01086-24,Clear cell renal cell carcinoma,M,Primary
+C3N-01085,C3N-01085-22,Clear cell renal cell carcinoma,F,Primary
+C3N-01083,C3N-01083-22,Clear cell renal cell carcinoma,F,Primary
+C3N-01085,C3N-01085-24,Clear cell renal cell carcinoma,F,Primary
+C3N-01085,C3N-01085-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01083,C3N-01083-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01085,C3N-01085-23,Clear cell renal cell carcinoma,F,Primary
+C3N-01083,C3N-01083-23,Clear cell renal cell carcinoma,F,Primary
+C3N-01083,C3N-01083-24,Clear cell renal cell carcinoma,F,Primary
+C3N-01082,C3N-01082-24,Clear cell renal cell carcinoma,F,Primary
+C3N-01082,C3N-01082-23,Clear cell renal cell carcinoma,F,Primary
+C3N-01082,C3N-01082-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01081,C3N-01081-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01082,C3N-01082-22,Clear cell renal cell carcinoma,F,Primary
+C3N-01081,C3N-01081-22,Clear cell renal cell carcinoma,F,Primary
+C3N-01081,C3N-01081-24,Clear cell renal cell carcinoma,F,Primary
+C3N-01080,C3N-01080-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00312,C3N-00312-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01080,C3N-01080-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01080,C3N-01080-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01080,C3N-01080-24,Clear cell renal cell carcinoma,M,Primary
+C3N-01078,C3N-01078-22,Clear cell renal cell carcinoma,F,Primary
+C3N-01078,C3N-01078-21,Clear cell renal cell carcinoma,F,Primary
+C3N-01078,C3N-01078-23,Clear cell renal cell carcinoma,F,Primary
+C3N-01078,C3N-01078-24,Clear cell renal cell carcinoma,F,Primary
+C3N-01077,C3N-01077-24,Clear cell renal cell carcinoma,M,Primary
+C3N-01077,C3N-01077-22,Clear cell renal cell carcinoma,M,Primary
+C3N-01077,C3N-01077-21,Clear cell renal cell carcinoma,M,Primary
+C3N-01077,C3N-01077-23,Clear cell renal cell carcinoma,M,Primary
+C3N-00647,C3N-00647-21,Clear cell renal cell carcinoma,F,Primary
+C3N-00721,C3N-00721-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00715,C3N-00715-21,Clear cell renal cell carcinoma,M,Primary
+C3N-00647,C3N-00647-22,Clear cell renal cell carcinoma,F,Primary
+C3N-00647,C3N-00647-23,Clear cell renal cell carcinoma,F,Primary
+C3N-00647,C3N-00647-24,Clear cell renal cell carcinoma,F,Primary
+C3L-00789,C3L-00789-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00165,C3L-00165-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01107,C3L-01107-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01107,C3L-01107-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01106,C3L-01106-21,Clear cell renal cell carcinoma,F,Primary
+C3L-01102,C3L-01102-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01106,C3L-01106-22,Clear cell renal cell carcinoma,F,Primary
+C3L-01102,C3L-01102-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01034,C3L-01034-23,Clear cell renal cell carcinoma,M,Primary
+C3L-01034,C3L-01034-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01033,C3L-01033-22,Clear cell renal cell carcinoma,M,Primary
+C3L-01033,C3L-01033-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00982,C3L-00982-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00976,C3L-00976-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00991,C3L-00991-24,Clear cell renal cell carcinoma,M,Primary
+C3L-00991,C3L-00991-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00991,C3L-00991-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00980,C3L-00980-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00982,C3L-00982-22,Clear cell renal cell carcinoma,M,Primary
+C3N-02338,C3N-02338-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00982,C3L-00982-24,Clear cell renal cell carcinoma,M,Primary
+C3L-00982,C3L-00982-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00981,C3L-00981-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00976,C3L-00976-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00970,C3L-00970-25,Clear cell renal cell carcinoma,M,Primary
+C3L-00970,C3L-00970-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00976,C3L-00976-24,Clear cell renal cell carcinoma,M,Primary
+C3L-00968,C3L-00968-25,Clear cell renal cell carcinoma,M,Primary
+C3L-00970,C3L-00970-24,Clear cell renal cell carcinoma,M,Primary
+C3L-00969,C3L-00969-24,Clear cell renal cell carcinoma,M,Primary
+C3L-00970,C3L-00970-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00970,C3L-00970-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00968,C3L-00968-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00969,C3L-00969-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00969,C3L-00969-21,Clear cell renal cell carcinoma,M,Primary
+C3L-00969,C3L-00969-25,Clear cell renal cell carcinoma,M,Primary
+C3L-00969,C3L-00969-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00968,C3L-00968-24,Clear cell renal cell carcinoma,M,Primary
+C3L-00968,C3L-00968-23,Clear cell renal cell carcinoma,M,Primary
+C3L-00968,C3L-00968-22,Clear cell renal cell carcinoma,M,Primary
+C3L-00966,C3L-00966-22,Clear cell renal cell carcinoma,F,Primary
+C3L-00966,C3L-00966-24,Clear cell renal cell carcinoma,F,Primary
+C3L-02856,C3L-02856-21,Clear cell renal cell carcinoma,F,Primary
+C3L-02857,C3L-02857-21,Clear cell renal cell carcinoma,F,Primary
+C3L-02842,C3L-02842-21,Clear cell renal cell carcinoma,F,Primary
+C3L-02841,C3L-02841-21,Clear cell renal cell carcinoma,M,Primary
+C3L-02556,C3L-02556-23,Clear cell renal cell carcinoma,M,Primary
+C3L-02556,C3L-02556-21,Clear cell renal cell carcinoma,M,Primary
+C3L-02556,C3L-02556-22,Clear cell renal cell carcinoma,M,Primary
+C3L-02553,C3L-02553-21,Clear cell renal cell carcinoma,M,Primary
+C3L-02551,C3L-02551-21,Clear cell renal cell carcinoma,M,Primary
+C3L-02551,C3L-02551-23,Clear cell renal cell carcinoma,M,Primary
+C3L-02551,C3L-02551-22,Clear cell renal cell carcinoma,M,Primary
+C3L-02544,C3L-02544-22,Clear cell renal cell carcinoma,F,Primary
+C3L-02544,C3L-02544-21,Clear cell renal cell carcinoma,F,Primary
+C3L-02544,C3L-02544-23,Clear cell renal cell carcinoma,F,Primary
+C3L-02364,C3L-02364-22,Clear cell renal cell carcinoma,M,Primary
+C3L-02364,C3L-02364-21,Clear cell renal cell carcinoma,M,Primary
+C3L-02352,C3L-02352-21,Clear cell renal cell carcinoma,F,Primary
+C3L-02352,C3L-02352-22,Clear cell renal cell carcinoma,F,Primary
+C3L-02346,C3L-02346-22,Clear cell renal cell carcinoma,M,Primary
+C3L-02346,C3L-02346-21,Clear cell renal cell carcinoma,M,Primary
+C3L-02346,C3L-02346-23,Clear cell renal cell carcinoma,M,Primary
+C3L-02220,C3L-02220-22,Clear cell renal cell carcinoma,F,Primary
+C3L-02220,C3L-02220-21,Clear cell renal cell carcinoma,F,Primary
+C3L-02220,C3L-02220-23,Clear cell renal cell carcinoma,F,Primary
+C3L-02214,C3L-02214-21,Clear cell renal cell carcinoma,M,Primary
+C3L-02211,C3L-02211-21,Clear cell renal cell carcinoma,F,Primary
+C3L-02208,C3L-02208-21,Clear cell renal cell carcinoma,M,Primary
+C3L-02202,C3L-02202-21,Clear cell renal cell carcinoma,M,Primary
+C3L-02201,C3L-02201-21,Clear cell renal cell carcinoma,M,Primary
+C3L-02177,C3L-02177-21,Clear cell renal cell carcinoma,M,Primary
+C3L-02176,C3L-02176-21,Clear cell renal cell carcinoma,F,Primary
+C3L-02175,C3L-02175-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00966,C3L-00966-21,Clear cell renal cell carcinoma,F,Primary
+C3L-00966,C3L-00966-23,Clear cell renal cell carcinoma,F,Primary
+C3L-01978,C3L-01978-23,Clear cell renal cell carcinoma,F,Primary
+C3L-01978,C3L-01978-21,Clear cell renal cell carcinoma,F,Primary
+C3L-01978,C3L-01978-22,Clear cell renal cell carcinoma,F,Primary
+C3L-01976,C3L-01976-23,Clear cell renal cell carcinoma,F,Primary
+C3L-01976,C3L-01976-21,Clear cell renal cell carcinoma,F,Primary
+C3L-01976,C3L-01976-22,Clear cell renal cell carcinoma,F,Primary
+C3L-01963,C3L-01963-21,Clear cell renal cell carcinoma,F,Primary
+C3L-01958,C3L-01958-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01954,C3L-01954-21,Clear cell renal cell carcinoma,F,Primary
+C3L-01952,C3L-01952-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01951,C3L-01951-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01929,C3L-01929-21,Clear cell renal cell carcinoma,M,Primary
+C3L-01869,C3L-01869-23,Clear cell renal cell carcinoma,F,Primary
+C3L-01869,C3L-01869-21,Clear cell renal cell carcinoma,F,Primary
+C3L-01869,C3L-01869-22,Clear cell renal cell carcinoma,F,Primary
+C3L-01681,C3L-01681-26,Clear cell renal cell carcinoma,M,Primary
+C3L-00966,C3L-00966-25,Clear cell renal cell carcinoma,F,Primary
+C3L-01681,C3L-01681-28,Clear cell renal cell carcinoma,M,Primary
+C3L-01676,C3L-01676-23,Clear cell renal cell carcinoma,M,Primary
+C3N-01081,C3N-01081-23,Clear cell renal cell carcinoma,F,Primary

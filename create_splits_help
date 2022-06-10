@@ -1,0 +1,15 @@
+usage: create_splits.py [-h] [--label_frac LABEL_FRAC] [--seed SEED] [--k K]
+                        [--hold_out_test] [--split_code SPLIT_CODE]
+                        [--task {dummy_mtl_concat}]
+
+Creating splits for whole slide classification
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --label_frac LABEL_FRAC
+                        fraction of labels (default: [1.0])
+  --seed SEED           random seed (default: 1)
+  --k K                 number of splits (default: 10)
+  --hold_out_test       fraction to hold out (default: 0)
+  --split_code SPLIT_CODE
+  --task {dummy_mtl_concat}

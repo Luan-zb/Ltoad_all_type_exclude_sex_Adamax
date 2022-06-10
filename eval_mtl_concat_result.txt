@@ -1,0 +1,53 @@
+(clam) daichuangchuang@DELLW01:~/Nature/Ltoad_exclude_sex$ CUDA_VISIBLE_DEVICES=0 python eval_mtl_concat_LSCC_CCRCC_CM.py --drop_out --k 1 --models_exp_code dummy_mtl_sex_s1 --save_exp_code dummy_mtl_sex_s1_eval --task study_v2_mtl_sex  --results_dir results --data_root_dir /home/daichuangchuang/Nature/CLAM/DATA_ROOT_DIR
+{'task': 'study_v2_mtl_sex', 'split': 'test', 'save_dir': './eval_results/EVAL_dummy_mtl_sex_s1_eval', 'models_dir': 'results/dummy_mtl_sex_s1', 'drop_out': True, 'micro_avg': False}
+task:  0
+label column: label
+label dictionary: {'Lung': 0, 'Skin': 1, 'Kidney': 2}
+number of classes: 3
+slide-level counts:
+ 0    679
+1    284
+2    503
+Name: label, dtype: int64
+Patient-LVL; Number of samples registered in class 0: 210
+Slide-LVL; Number of samples registered in class 0: 679
+Patient-LVL; Number of samples registered in class 1: 93
+Slide-LVL; Number of samples registered in class 1: 284
+Patient-LVL; Number of samples registered in class 2: 216
+Slide-LVL; Number of samples registered in class 2: 503
+Init Model
+TOAD_fc_mtl_concat(
+  (attention_net): Sequential(
+    (0): Linear(in_features=1024, out_features=512, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.25, inplace=False)
+    (3): Linear(in_features=512, out_features=512, bias=True)
+    (4): ReLU()
+    (5): Dropout(p=0.25, inplace=False)
+    (6): Attn_Net_Gated(
+      (attention_a): Sequential(
+        (0): Linear(in_features=512, out_features=384, bias=True)
+        (1): Tanh()
+        (2): Dropout(p=0.25, inplace=False)
+      )
+      (attention_b): Sequential(
+        (0): Linear(in_features=512, out_features=384, bias=True)
+        (1): Sigmoid()
+        (2): Dropout(p=0.25, inplace=False)
+      )
+      (attention_c): Linear(in_features=384, out_features=1, bias=True)
+    )
+  )
+  (classifier): Linear(in_features=512, out_features=3, bias=True)
+)
+Total number of parameters: 1183364
+Total number of trainable parameters: 1183364
+Init Loaders
+top1 acc: 0.960
+top3 acc: 1.000
+cls_test_error:  0.039603960396039604
+cls_auc:  0.9935040976915793
+class 0 auc: 0.982520325203252
+class 1 auc: 0.9979919678714859
+class 2 auc: 1.0
+

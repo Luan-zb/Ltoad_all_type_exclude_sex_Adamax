@@ -1,0 +1,37 @@
+usage: eval_mtl_concat.py [-h] [--data_root_dir DATA_ROOT_DIR]
+                          [--results_dir RESULTS_DIR]
+                          [--save_exp_code SAVE_EXP_CODE]
+                          [--models_exp_code MODELS_EXP_CODE]
+                          [--splits_dir SPLITS_DIR] [--drop_out] [--k K]
+                          [--k_start K_START] [--k_end K_END] [--fold FOLD]
+                          [--micro_average] [--split {train,val,test,all}]
+                          [--task {study_v2_mtl_sex}]
+
+TOAD Evaluation Script
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --data_root_dir DATA_ROOT_DIR
+                        data directory
+  --results_dir RESULTS_DIR
+                        relative path to results folder, i.e. the directory
+                        containing models_exp_code relative to project root
+                        (default: ./results)
+  --save_exp_code SAVE_EXP_CODE
+                        experiment code to save eval results
+  --models_exp_code MODELS_EXP_CODE
+                        experiment code to load trained models (directory
+                        under results_dir containing model checkpoints
+  --splits_dir SPLITS_DIR
+                        splits directory, if using custom splits other than
+                        what matches the task (default: None)
+  --drop_out            whether model uses dropout
+  --k K                 number of folds (default: 1)
+  --k_start K_START     start fold (default: -1, last fold)
+  --k_end K_END         end fold (default: -1, first fold)
+  --fold FOLD           single fold to evaluate
+  --micro_average       use micro_average instead of macro_avearge for
+                        multiclass AUC
+  --split {train,val,test,all}
+  --task {study_v2_mtl_sex}
+

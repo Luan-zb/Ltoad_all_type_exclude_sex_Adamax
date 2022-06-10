@@ -1,0 +1,37 @@
+usage: main_mtl_concat.py [-h] [--data_root_dir DATA_ROOT_DIR]
+                          [--max_epochs MAX_EPOCHS] [--lr LR] [--reg REG]
+                          [--seed SEED] [--k K] [--k_start K_START]
+                          [--k_end K_END] [--results_dir RESULTS_DIR]
+                          [--split_dir SPLIT_DIR] [--log_data] [--testing]
+                          [--early_stopping] [--opt {adam,sgd}] [--drop_out]
+                          [--exp_code EXP_CODE] [--weighted_sample]
+                          [--task {dummy_mtl_concat}]
+
+Configurations for WSI Training
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --data_root_dir DATA_ROOT_DIR
+                        data directory
+  --max_epochs MAX_EPOCHS
+                        maximum number of epochs to train (default: 200)
+  --lr LR               learning rate (default: 0.0001)
+  --reg REG             weight decay (default: 1e-5)
+  --seed SEED           random seed for reproducible experiment (default: 1)
+  --k K                 number of folds (default: 10)
+  --k_start K_START     start fold (default: -1, last fold)
+  --k_end K_END         end fold (default: -1, first fold)
+  --results_dir RESULTS_DIR
+                        results directory (default: ./results)
+  --split_dir SPLIT_DIR
+                        manually specify the set of splits to use, instead of
+                        infering from the task and label_frac argument
+                        (default: None)
+  --log_data            log data using tensorboard
+  --testing             debugging tool
+  --early_stopping      enable early stopping
+  --opt {adam,sgd}
+  --drop_out            enabel dropout (p=0.25)
+  --exp_code EXP_CODE   experiment code for saving results
+  --weighted_sample     enable weighted sampling
+  --task {dummy_mtl_concat}
